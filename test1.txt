@@ -1,0 +1,9 @@
+
+int main() {
+    //one line comment 
+    const int _x2 = 10;
+    if (x > 5) {
+        x = x / 1;
+    }
+    return 0;
+}
